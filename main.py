@@ -58,6 +58,10 @@ parser.add_argument("--gpu",
 	type=str,
 	default="0",  
 	help="gpu card ID")
+parser.add_argument("--log_loss",
+   	type=bool,
+	default=False,
+	help="logarithm of the loss")
 args = parser.parse_args()
 
 os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu
@@ -65,9 +69,13 @@ cudnn.benchmark = True
 
 assert args.model in ['MLP', 'GMF', 'NeuMF-end']
 
-wandb.init(
-    project="dsp-asgmt3",
-)
+if args.log_loss:
+	wandb.init(
+		project="dsp-asgmt3",
+		config={
+			"model": args.model,
+		}
+		)
 
 ############################## PREPARE DATASET ##########################
 train_data, test_data, user_num ,item_num, train_mat = data_utils.load_all()
@@ -108,7 +116,8 @@ for epoch in range(args.epochs):
 		model.zero_grad()
 		prediction = model(user, item)
 		loss = loss_function(prediction, label)
-		wandb.log({"loss": loss.item()})
+		if args.log_loss:
+			wandb.log({"loss": loss.item()})
 		loss.backward()
 		optimizer.step()
 		# writer.add_scalar('data/loss', loss.item(), count)

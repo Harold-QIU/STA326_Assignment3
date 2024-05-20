@@ -3,12 +3,11 @@ import time
 import argparse
 import numpy as np
 
-import torch
 import torch.nn as nn
 import torch.optim as optim
 import torch.utils.data as data
 import torch.backends.cudnn as cudnn
-# from tensorboardX import SummaryWriter
+import wandb
 
 import model
 import evaluate
@@ -66,6 +65,10 @@ cudnn.benchmark = True
 
 assert args.model in ['MLP', 'GMF', 'NeuMF-end']
 
+wandb.init(
+    project="dsp-asgmt3",
+)
+
 ############################## PREPARE DATASET ##########################
 train_data, test_data, user_num ,item_num, train_mat = data_utils.load_all()
 
@@ -105,6 +108,7 @@ for epoch in range(args.epochs):
 		model.zero_grad()
 		prediction = model(user, item)
 		loss = loss_function(prediction, label)
+		wandb.log({"loss": loss.item()})
 		loss.backward()
 		optimizer.step()
 		# writer.add_scalar('data/loss', loss.item(), count)

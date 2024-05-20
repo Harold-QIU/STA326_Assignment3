@@ -1,0 +1,4 @@
+Model,Best_Epoch,HR,NDCG
+GMF,18,0.639,0.368
+MLP,16,0.675,0.397
+NeuMF-end,15,0.681,0.404

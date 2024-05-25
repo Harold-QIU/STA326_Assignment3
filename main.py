@@ -108,6 +108,7 @@ for epoch in range(args.epochs):
 	start_time = time.time()
 	train_loader.dataset.ng_sample()
 
+	losses = []
 	for user, item, label in train_loader:
 		user = user.cuda()
 		item = item.cuda()
@@ -116,20 +117,22 @@ for epoch in range(args.epochs):
 		model.zero_grad()
 		prediction = model(user, item)
 		loss = loss_function(prediction, label)
-		if args.log_loss:
-			wandb.log({"loss": loss.item()})
+		losses.append(loss.item())
 		loss.backward()
 		optimizer.step()
-		# writer.add_scalar('data/loss', loss.item(), count)
 		count += 1
 
 	model.eval()
 	HR, NDCG = evaluate.metrics(model, test_loader, args.top_k)
+	if args.log_loss:
+		wandb.log({"loss": np.mean(losses)})
+		wandb.log({"HR": np.mean(HR)})
+		wandb.log({"NDCG": np.mean(NDCG)})
 
 	elapsed_time = time.time() - start_time
 	print("The time elapse of epoch {:03d}".format(epoch) + " is: " + 
 			time.strftime("%H: %M: %S", time.gmtime(elapsed_time)))
-	print("HR: {:.3f}\tNDCG: {:.3f}".format(np.mean(HR), np.mean(NDCG)))
+	print("loss: {:.3f}\tHR: {:.3f}\tNDCG: {:.3f}".format(np.mean(losses), np.mean(HR), np.mean(NDCG)))
 
 	if HR > best_hr:
 		best_hr, best_ndcg, best_epoch = HR, NDCG, epoch

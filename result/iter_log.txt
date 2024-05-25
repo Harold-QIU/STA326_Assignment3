@@ -1,0 +1,303 @@
+Model: GMF
+The time elapse of epoch 000 is: 00: 01: 07
+loss: 0.354	HR: 0.529	NDCG: 0.294
+The time elapse of epoch 001 is: 00: 01: 06
+loss: 0.304	HR: 0.576	NDCG: 0.324
+The time elapse of epoch 002 is: 00: 01: 04
+loss: 0.287	HR: 0.604	NDCG: 0.344
+The time elapse of epoch 003 is: 00: 01: 11
+loss: 0.278	HR: 0.616	NDCG: 0.352
+The time elapse of epoch 004 is: 00: 01: 11
+loss: 0.274	HR: 0.619	NDCG: 0.356
+The time elapse of epoch 005 is: 00: 01: 03
+loss: 0.273	HR: 0.628	NDCG: 0.358
+The time elapse of epoch 006 is: 00: 01: 03
+loss: 0.272	HR: 0.623	NDCG: 0.359
+The time elapse of epoch 007 is: 00: 00: 57
+loss: 0.271	HR: 0.631	NDCG: 0.363
+The time elapse of epoch 008 is: 00: 01: 10
+loss: 0.270	HR: 0.634	NDCG: 0.364
+The time elapse of epoch 009 is: 00: 01: 08
+loss: 0.270	HR: 0.632	NDCG: 0.365
+The time elapse of epoch 010 is: 00: 00: 59
+loss: 0.269	HR: 0.633	NDCG: 0.364
+The time elapse of epoch 011 is: 00: 01: 05
+loss: 0.269	HR: 0.632	NDCG: 0.366
+The time elapse of epoch 012 is: 00: 01: 03
+loss: 0.269	HR: 0.634	NDCG: 0.368
+The time elapse of epoch 013 is: 00: 01: 08
+loss: 0.268	HR: 0.629	NDCG: 0.365
+The time elapse of epoch 014 is: 00: 00: 56
+loss: 0.268	HR: 0.632	NDCG: 0.365
+The time elapse of epoch 015 is: 00: 01: 01
+loss: 0.268	HR: 0.634	NDCG: 0.365
+The time elapse of epoch 016 is: 00: 01: 07
+loss: 0.268	HR: 0.635	NDCG: 0.365
+The time elapse of epoch 017 is: 00: 01: 15
+loss: 0.268	HR: 0.636	NDCG: 0.367
+The time elapse of epoch 018 is: 00: 01: 09
+loss: 0.267	HR: 0.636	NDCG: 0.366
+The time elapse of epoch 019 is: 00: 01: 01
+loss: 0.267	HR: 0.634	NDCG: 0.367
+The time elapse of epoch 020 is: 00: 01: 09
+loss: 0.267	HR: 0.634	NDCG: 0.367
+The time elapse of epoch 021 is: 00: 01: 11
+loss: 0.267	HR: 0.635	NDCG: 0.369
+The time elapse of epoch 022 is: 00: 01: 08
+loss: 0.267	HR: 0.634	NDCG: 0.367
+The time elapse of epoch 023 is: 00: 01: 00
+loss: 0.267	HR: 0.633	NDCG: 0.367
+The time elapse of epoch 024 is: 00: 01: 03
+loss: 0.267	HR: 0.633	NDCG: 0.367
+The time elapse of epoch 025 is: 00: 01: 07
+loss: 0.267	HR: 0.636	NDCG: 0.369
+The time elapse of epoch 026 is: 00: 00: 58
+loss: 0.266	HR: 0.635	NDCG: 0.367
+The time elapse of epoch 027 is: 00: 01: 02
+loss: 0.267	HR: 0.636	NDCG: 0.369
+The time elapse of epoch 028 is: 00: 00: 56
+loss: 0.266	HR: 0.638	NDCG: 0.369
+The time elapse of epoch 029 is: 00: 01: 04
+loss: 0.266	HR: 0.638	NDCG: 0.368
+The time elapse of epoch 030 is: 00: 01: 07
+loss: 0.266	HR: 0.638	NDCG: 0.369
+The time elapse of epoch 031 is: 00: 01: 08
+loss: 0.266	HR: 0.638	NDCG: 0.369
+The time elapse of epoch 032 is: 00: 01: 07
+loss: 0.266	HR: 0.639	NDCG: 0.369
+The time elapse of epoch 033 is: 00: 01: 06
+loss: 0.266	HR: 0.640	NDCG: 0.370
+The time elapse of epoch 034 is: 00: 01: 09
+loss: 0.266	HR: 0.638	NDCG: 0.369
+The time elapse of epoch 035 is: 00: 01: 08
+loss: 0.266	HR: 0.637	NDCG: 0.369
+The time elapse of epoch 036 is: 00: 00: 58
+loss: 0.266	HR: 0.638	NDCG: 0.370
+The time elapse of epoch 037 is: 00: 01: 01
+loss: 0.266	HR: 0.639	NDCG: 0.370
+The time elapse of epoch 038 is: 00: 01: 02
+loss: 0.266	HR: 0.638	NDCG: 0.369
+The time elapse of epoch 039 is: 00: 01: 08
+loss: 0.266	HR: 0.633	NDCG: 0.366
+The time elapse of epoch 040 is: 00: 00: 55
+loss: 0.266	HR: 0.638	NDCG: 0.369
+The time elapse of epoch 041 is: 00: 01: 05
+loss: 0.266	HR: 0.639	NDCG: 0.369
+The time elapse of epoch 042 is: 00: 01: 13
+loss: 0.266	HR: 0.642	NDCG: 0.371
+The time elapse of epoch 043 is: 00: 01: 02
+loss: 0.266	HR: 0.641	NDCG: 0.370
+The time elapse of epoch 044 is: 00: 00: 55
+loss: 0.266	HR: 0.638	NDCG: 0.369
+The time elapse of epoch 045 is: 00: 01: 08
+loss: 0.265	HR: 0.638	NDCG: 0.369
+The time elapse of epoch 046 is: 00: 01: 12
+loss: 0.265	HR: 0.641	NDCG: 0.371
+The time elapse of epoch 047 is: 00: 00: 56
+loss: 0.265	HR: 0.639	NDCG: 0.369
+The time elapse of epoch 048 is: 00: 00: 59
+loss: 0.265	HR: 0.640	NDCG: 0.369
+The time elapse of epoch 049 is: 00: 01: 06
+loss: 0.266	HR: 0.637	NDCG: 0.367
+Model: MLP
+The time elapse of epoch 000 is: 00: 01: 22
+loss: 0.344	HR: 0.528	NDCG: 0.293
+The time elapse of epoch 001 is: 00: 01: 12
+loss: 0.303	HR: 0.580	NDCG: 0.328
+The time elapse of epoch 002 is: 00: 01: 23
+loss: 0.284	HR: 0.612	NDCG: 0.353
+The time elapse of epoch 003 is: 00: 01: 20
+loss: 0.274	HR: 0.625	NDCG: 0.360
+The time elapse of epoch 004 is: 00: 01: 14
+loss: 0.267	HR: 0.642	NDCG: 0.373
+The time elapse of epoch 005 is: 00: 01: 19
+loss: 0.262	HR: 0.652	NDCG: 0.380
+The time elapse of epoch 006 is: 00: 01: 32
+loss: 0.258	HR: 0.650	NDCG: 0.380
+The time elapse of epoch 007 is: 00: 01: 27
+loss: 0.255	HR: 0.655	NDCG: 0.386
+The time elapse of epoch 008 is: 00: 01: 31
+loss: 0.252	HR: 0.657	NDCG: 0.386
+The time elapse of epoch 009 is: 00: 01: 23
+loss: 0.250	HR: 0.658	NDCG: 0.389
+The time elapse of epoch 010 is: 00: 01: 26
+loss: 0.248	HR: 0.659	NDCG: 0.391
+The time elapse of epoch 011 is: 00: 01: 25
+loss: 0.246	HR: 0.664	NDCG: 0.392
+The time elapse of epoch 012 is: 00: 01: 35
+loss: 0.245	HR: 0.671	NDCG: 0.393
+The time elapse of epoch 013 is: 00: 01: 24
+loss: 0.243	HR: 0.664	NDCG: 0.391
+The time elapse of epoch 014 is: 00: 01: 21
+loss: 0.242	HR: 0.663	NDCG: 0.390
+The time elapse of epoch 015 is: 00: 01: 20
+loss: 0.241	HR: 0.670	NDCG: 0.395
+The time elapse of epoch 016 is: 00: 01: 25
+loss: 0.241	HR: 0.673	NDCG: 0.395
+The time elapse of epoch 017 is: 00: 01: 30
+loss: 0.240	HR: 0.664	NDCG: 0.391
+The time elapse of epoch 018 is: 00: 01: 20
+loss: 0.239	HR: 0.669	NDCG: 0.396
+The time elapse of epoch 019 is: 00: 01: 28
+loss: 0.238	HR: 0.666	NDCG: 0.394
+The time elapse of epoch 020 is: 00: 01: 21
+loss: 0.237	HR: 0.668	NDCG: 0.395
+The time elapse of epoch 021 is: 00: 01: 25
+loss: 0.237	HR: 0.670	NDCG: 0.395
+The time elapse of epoch 022 is: 00: 01: 23
+loss: 0.236	HR: 0.671	NDCG: 0.397
+The time elapse of epoch 023 is: 00: 01: 32
+loss: 0.235	HR: 0.673	NDCG: 0.400
+The time elapse of epoch 024 is: 00: 01: 21
+loss: 0.235	HR: 0.671	NDCG: 0.396
+The time elapse of epoch 025 is: 00: 01: 18
+loss: 0.235	HR: 0.669	NDCG: 0.398
+The time elapse of epoch 026 is: 00: 01: 12
+loss: 0.234	HR: 0.672	NDCG: 0.398
+The time elapse of epoch 027 is: 00: 01: 25
+loss: 0.234	HR: 0.665	NDCG: 0.397
+The time elapse of epoch 028 is: 00: 01: 17
+loss: 0.233	HR: 0.669	NDCG: 0.399
+The time elapse of epoch 029 is: 00: 01: 28
+loss: 0.233	HR: 0.670	NDCG: 0.398
+The time elapse of epoch 030 is: 00: 01: 29
+loss: 0.232	HR: 0.666	NDCG: 0.393
+The time elapse of epoch 031 is: 00: 01: 21
+loss: 0.232	HR: 0.663	NDCG: 0.395
+The time elapse of epoch 032 is: 00: 01: 24
+loss: 0.232	HR: 0.664	NDCG: 0.395
+The time elapse of epoch 033 is: 00: 01: 31
+loss: 0.231	HR: 0.672	NDCG: 0.399
+The time elapse of epoch 034 is: 00: 01: 15
+loss: 0.231	HR: 0.671	NDCG: 0.399
+The time elapse of epoch 035 is: 00: 01: 19
+loss: 0.231	HR: 0.665	NDCG: 0.395
+The time elapse of epoch 036 is: 00: 01: 14
+loss: 0.231	HR: 0.662	NDCG: 0.393
+The time elapse of epoch 037 is: 00: 01: 24
+loss: 0.230	HR: 0.666	NDCG: 0.394
+The time elapse of epoch 038 is: 00: 01: 35
+loss: 0.230	HR: 0.667	NDCG: 0.396
+The time elapse of epoch 039 is: 00: 01: 14
+loss: 0.230	HR: 0.665	NDCG: 0.395
+The time elapse of epoch 040 is: 00: 01: 24
+loss: 0.229	HR: 0.668	NDCG: 0.396
+The time elapse of epoch 041 is: 00: 01: 16
+loss: 0.230	HR: 0.671	NDCG: 0.397
+The time elapse of epoch 042 is: 00: 01: 32
+loss: 0.229	HR: 0.666	NDCG: 0.394
+The time elapse of epoch 043 is: 00: 01: 25
+loss: 0.229	HR: 0.666	NDCG: 0.396
+The time elapse of epoch 044 is: 00: 01: 13
+loss: 0.229	HR: 0.668	NDCG: 0.396
+The time elapse of epoch 045 is: 00: 01: 19
+loss: 0.229	HR: 0.665	NDCG: 0.395
+The time elapse of epoch 046 is: 00: 01: 21
+loss: 0.228	HR: 0.671	NDCG: 0.401
+The time elapse of epoch 047 is: 00: 01: 18
+loss: 0.228	HR: 0.670	NDCG: 0.397
+The time elapse of epoch 048 is: 00: 01: 25
+loss: 0.228	HR: 0.664	NDCG: 0.399
+The time elapse of epoch 049 is: 00: 01: 28
+loss: 0.228	HR: 0.667	NDCG: 0.396
+Model: NeuMF-end
+The time elapse of epoch 000 is: 00: 01: 39
+loss: 0.317	HR: 0.601	NDCG: 0.343
+The time elapse of epoch 001 is: 00: 01: 31
+loss: 0.274	HR: 0.640	NDCG: 0.366
+The time elapse of epoch 002 is: 00: 01: 26
+loss: 0.264	HR: 0.652	NDCG: 0.377
+The time elapse of epoch 003 is: 00: 01: 40
+loss: 0.259	HR: 0.656	NDCG: 0.382
+The time elapse of epoch 004 is: 00: 01: 29
+loss: 0.256	HR: 0.663	NDCG: 0.385
+The time elapse of epoch 005 is: 00: 01: 31
+loss: 0.253	HR: 0.669	NDCG: 0.389
+The time elapse of epoch 006 is: 00: 01: 28
+loss: 0.250	HR: 0.673	NDCG: 0.395
+The time elapse of epoch 007 is: 00: 01: 35
+loss: 0.248	HR: 0.674	NDCG: 0.399
+The time elapse of epoch 008 is: 00: 01: 41
+loss: 0.245	HR: 0.678	NDCG: 0.401
+The time elapse of epoch 009 is: 00: 01: 28
+loss: 0.243	HR: 0.676	NDCG: 0.402
+The time elapse of epoch 010 is: 00: 01: 28
+loss: 0.241	HR: 0.675	NDCG: 0.402
+The time elapse of epoch 011 is: 00: 01: 31
+loss: 0.240	HR: 0.678	NDCG: 0.404
+The time elapse of epoch 012 is: 00: 01: 35
+loss: 0.239	HR: 0.679	NDCG: 0.407
+The time elapse of epoch 013 is: 00: 01: 34
+loss: 0.237	HR: 0.684	NDCG: 0.408
+The time elapse of epoch 014 is: 00: 01: 26
+loss: 0.236	HR: 0.680	NDCG: 0.405
+The time elapse of epoch 015 is: 00: 01: 28
+loss: 0.235	HR: 0.680	NDCG: 0.403
+The time elapse of epoch 016 is: 00: 01: 26
+loss: 0.234	HR: 0.675	NDCG: 0.402
+The time elapse of epoch 017 is: 00: 01: 21
+loss: 0.233	HR: 0.674	NDCG: 0.400
+The time elapse of epoch 018 is: 00: 01: 21
+loss: 0.232	HR: 0.683	NDCG: 0.407
+The time elapse of epoch 019 is: 00: 01: 38
+loss: 0.231	HR: 0.680	NDCG: 0.404
+The time elapse of epoch 020 is: 00: 01: 43
+loss: 0.230	HR: 0.676	NDCG: 0.404
+The time elapse of epoch 021 is: 00: 01: 32
+loss: 0.230	HR: 0.678	NDCG: 0.403
+The time elapse of epoch 022 is: 00: 01: 34
+loss: 0.229	HR: 0.677	NDCG: 0.405
+The time elapse of epoch 023 is: 00: 01: 31
+loss: 0.228	HR: 0.679	NDCG: 0.406
+The time elapse of epoch 024 is: 00: 01: 36
+loss: 0.228	HR: 0.677	NDCG: 0.403
+The time elapse of epoch 025 is: 00: 01: 34
+loss: 0.227	HR: 0.682	NDCG: 0.407
+The time elapse of epoch 026 is: 00: 01: 33
+loss: 0.227	HR: 0.674	NDCG: 0.399
+The time elapse of epoch 027 is: 00: 01: 26
+loss: 0.226	HR: 0.680	NDCG: 0.403
+The time elapse of epoch 028 is: 00: 01: 36
+loss: 0.226	HR: 0.677	NDCG: 0.401
+The time elapse of epoch 029 is: 00: 01: 42
+loss: 0.225	HR: 0.674	NDCG: 0.405
+The time elapse of epoch 030 is: 00: 01: 31
+loss: 0.225	HR: 0.680	NDCG: 0.401
+The time elapse of epoch 031 is: 00: 01: 22
+loss: 0.224	HR: 0.676	NDCG: 0.401
+The time elapse of epoch 032 is: 00: 01: 28
+loss: 0.224	HR: 0.675	NDCG: 0.400
+The time elapse of epoch 033 is: 00: 01: 22
+loss: 0.224	HR: 0.678	NDCG: 0.403
+The time elapse of epoch 034 is: 00: 01: 36
+loss: 0.224	HR: 0.675	NDCG: 0.399
+The time elapse of epoch 035 is: 00: 01: 39
+loss: 0.223	HR: 0.679	NDCG: 0.403
+The time elapse of epoch 036 is: 00: 01: 21
+loss: 0.223	HR: 0.681	NDCG: 0.403
+The time elapse of epoch 037 is: 00: 01: 45
+loss: 0.223	HR: 0.675	NDCG: 0.403
+The time elapse of epoch 038 is: 00: 01: 27
+loss: 0.222	HR: 0.681	NDCG: 0.404
+The time elapse of epoch 039 is: 00: 01: 17
+loss: 0.222	HR: 0.679	NDCG: 0.403
+The time elapse of epoch 040 is: 00: 01: 21
+loss: 0.222	HR: 0.678	NDCG: 0.403
+The time elapse of epoch 041 is: 00: 01: 24
+loss: 0.222	HR: 0.683	NDCG: 0.406
+The time elapse of epoch 042 is: 00: 01: 41
+loss: 0.221	HR: 0.677	NDCG: 0.401
+The time elapse of epoch 043 is: 00: 01: 30
+loss: 0.221	HR: 0.677	NDCG: 0.402
+The time elapse of epoch 044 is: 00: 01: 46
+loss: 0.221	HR: 0.680	NDCG: 0.404
+The time elapse of epoch 045 is: 00: 01: 22
+loss: 0.221	HR: 0.677	NDCG: 0.403
+The time elapse of epoch 046 is: 00: 01: 24
+loss: 0.220	HR: 0.676	NDCG: 0.400
+The time elapse of epoch 047 is: 00: 01: 33
+loss: 0.221	HR: 0.683	NDCG: 0.404
+The time elapse of epoch 048 is: 00: 01: 38
+loss: 0.220	HR: 0.675	NDCG: 0.402
+The time elapse of epoch 049 is: 00: 01: 28
+loss: 0.220	HR: 0.670	NDCG: 0.399

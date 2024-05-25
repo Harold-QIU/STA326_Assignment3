@@ -1,0 +1,79 @@
+2024-05-16 19:24:21,682 - INFO - root - Task 1: Compare Models
+2024-05-16 19:24:21,682 - INFO - root - Running GMF
+End. Best epoch 018: HR = 0.639, NDCG = 0.368
+2024-05-16 19:45:46,721 - INFO - root - Running MLP
+End. Best epoch 016: HR = 0.675, NDCG = 0.397
+2024-05-16 20:15:12,631 - INFO - root - Running NeuMF-end
+End. Best epoch 015: HR = 0.681, NDCG = 0.404
+2024-05-16 20:44:27,430 - INFO - root - Task 2: MLP vs number of layers
+2024-05-16 20:44:27,430 - INFO - root - Layer number 0
+End. Best epoch 016: HR = 0.453, NDCG = 0.252
+2024-05-16 21:06:45,897 - INFO - root - Layer number 1
+End. Best epoch 019: HR = 0.611, NDCG = 0.344
+2024-05-16 21:32:05,303 - INFO - root - Layer number 2
+End. Best epoch 016: HR = 0.657, NDCG = 0.381
+2024-05-16 22:01:25,844 - INFO - root - Layer number 3
+End. Best epoch 018: HR = 0.670, NDCG = 0.393
+2024-05-16 22:31:46,648 - INFO - root - Layer number 4
+End. Best epoch 009: HR = 0.681, NDCG = 0.407
+2024-05-16 23:05:41,776 - INFO - root - Task 3: Number of Negatives
+2024-05-16 23:05:41,776 - INFO - root - Running GMF with 1 negatives
+End. Best epoch 017: HR = 0.628, NDCG = 0.358
+2024-05-16 23:14:51,636 - INFO - root - Running GMF with 2 negatives
+End. Best epoch 018: HR = 0.635, NDCG = 0.362
+2024-05-16 23:28:42,721 - INFO - root - Running GMF with 3 negatives
+End. Best epoch 017: HR = 0.634, NDCG = 0.365
+2024-05-16 23:46:56,820 - INFO - root - Running GMF with 4 negatives
+End. Best epoch 013: HR = 0.638, NDCG = 0.369
+2024-05-17 00:09:05,270 - INFO - root - Running GMF with 5 negatives
+End. Best epoch 018: HR = 0.641, NDCG = 0.371
+2024-05-17 00:35:33,848 - INFO - root - Running GMF with 6 negatives
+End. Best epoch 016: HR = 0.638, NDCG = 0.368
+2024-05-17 01:06:03,649 - INFO - root - Running GMF with 7 negatives
+End. Best epoch 011: HR = 0.634, NDCG = 0.369
+2024-05-17 01:40:51,982 - INFO - root - Running GMF with 8 negatives
+End. Best epoch 015: HR = 0.635, NDCG = 0.369
+2024-05-17 02:19:54,314 - INFO - root - Running GMF with 9 negatives
+End. Best epoch 019: HR = 0.635, NDCG = 0.369
+2024-05-17 03:03:20,180 - INFO - root - Running GMF with 10 negatives
+End. Best epoch 016: HR = 0.632, NDCG = 0.370
+2024-05-17 03:51:25,059 - INFO - root - Running MLP with 1 negatives
+End. Best epoch 018: HR = 0.659, NDCG = 0.379
+2024-05-17 04:03:34,038 - INFO - root - Running MLP with 2 negatives
+End. Best epoch 015: HR = 0.665, NDCG = 0.391
+2024-05-17 04:21:49,003 - INFO - root - Running MLP with 3 negatives
+End. Best epoch 016: HR = 0.671, NDCG = 0.393
+2024-05-17 04:45:16,531 - INFO - root - Running MLP with 4 negatives
+End. Best epoch 016: HR = 0.678, NDCG = 0.397
+2024-05-17 05:14:51,002 - INFO - root - Running MLP with 5 negatives
+End. Best epoch 019: HR = 0.674, NDCG = 0.402
+2024-05-17 05:49:34,702 - INFO - root - Running MLP with 6 negatives
+End. Best epoch 010: HR = 0.669, NDCG = 0.394
+2024-05-17 06:29:51,516 - INFO - root - Running MLP with 7 negatives
+End. Best epoch 016: HR = 0.668, NDCG = 0.392
+2024-05-17 07:16:53,064 - INFO - root - Running MLP with 8 negatives
+End. Best epoch 015: HR = 0.675, NDCG = 0.397
+2024-05-17 08:07:53,484 - INFO - root - Running MLP with 9 negatives
+End. Best epoch 017: HR = 0.666, NDCG = 0.393
+2024-05-17 09:06:16,602 - INFO - root - Running MLP with 10 negatives
+End. Best epoch 016: HR = 0.653, NDCG = 0.384
+2024-05-17 10:07:25,113 - INFO - root - Running NeuMF-end with 1 negatives
+End. Best epoch 014: HR = 0.664, NDCG = 0.386
+2024-05-17 10:20:15,988 - INFO - root - Running NeuMF-end with 2 negatives
+End. Best epoch 011: HR = 0.676, NDCG = 0.395
+2024-05-17 10:39:57,923 - INFO - root - Running NeuMF-end with 3 negatives
+End. Best epoch 016: HR = 0.687, NDCG = 0.409
+2024-05-17 11:04:12,732 - INFO - root - Running NeuMF-end with 4 negatives
+End. Best epoch 013: HR = 0.680, NDCG = 0.405
+2024-05-17 11:36:42,135 - INFO - root - Running NeuMF-end with 5 negatives
+End. Best epoch 015: HR = 0.683, NDCG = 0.409
+2024-05-17 12:14:47,639 - INFO - root - Running NeuMF-end with 6 negatives
+End. Best epoch 017: HR = 0.688, NDCG = 0.407
+2024-05-17 12:58:27,096 - INFO - root - Running NeuMF-end with 7 negatives
+End. Best epoch 015: HR = 0.681, NDCG = 0.409
+2024-05-17 13:48:04,119 - INFO - root - Running NeuMF-end with 8 negatives
+End. Best epoch 016: HR = 0.677, NDCG = 0.408
+2024-05-17 14:44:25,876 - INFO - root - Running NeuMF-end with 9 negatives
+End. Best epoch 018: HR = 0.684, NDCG = 0.409
+2024-05-17 15:48:03,674 - INFO - root - Running NeuMF-end with 10 negatives
+End. Best epoch 017: HR = 0.682, NDCG = 0.407
